@@ -1,3 +1,6 @@
+🚧 Work in progress 🚧
+
+
 # matte, a theme for Obsidian
 Focus on what matters.
 
